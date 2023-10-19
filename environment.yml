@@ -1,0 +1,9 @@
+name: creative_name
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- pandas
+- python
+- seaborn
+
