@@ -1,0 +1,11 @@
+name: idssession1hw
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- python
+- seaborn
+
